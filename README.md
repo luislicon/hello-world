@@ -1,2 +1,2 @@
 # hello-world
-This is a test, I´m heading to do all these steps with commands 
+This is a test, I´m heading to perform all these steps with commands 
